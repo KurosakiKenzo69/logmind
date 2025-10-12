@@ -227,6 +227,13 @@ export default function Home() {
     },
   ];
 
+  // Add debugging logs to identify hydration issues
+  console.log("Server-rendered features:", features);
+  console.log("Server-rendered useCases:", useCases);
+  console.log("Server-rendered insights:", insights);
+  console.log("Server-rendered pricingPlans:", pricingPlans);
+  console.log("Server-rendered competitors:", competitors);
+
   const getSeverityClasses = (
     severity: Insight["severity"]
   ): { bg: string; border: string; badge: string } => {
