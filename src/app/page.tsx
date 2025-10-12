@@ -219,7 +219,7 @@ export default function Home() {
       setup: "Plusieurs heures",
     },
     {
-      name: "LogSense",
+      name: "LogMind",
       price: "49€/mois",
       complexity: "Prêt en 5min",
       setup: "5 minutes",
@@ -272,7 +272,7 @@ export default function Home() {
             <div className="flex items-center space-x-2">
               <Shield className="w-8 h-8 text-blue-400" />
               <span className="text-2xl font-bold bg-gradient-to-r from-blue-400 via-cyan-400 to-blue-500 bg-clip-text text-transparent">
-                LogSense
+                LogMind
               </span>
             </div>
 
@@ -478,7 +478,7 @@ export default function Home() {
               </span>
             </h2>
             <p className="text-xl text-gray-400">
-              LogSense s'adapte à tous vos besoins d'analyse et monitoring
+              LogMind s'adapte à tous vos besoins d'analyse et monitoring
             </p>
           </div>
 
@@ -513,7 +513,7 @@ export default function Home() {
         <div className="max-w-5xl mx-auto">
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold mb-4">
-              Pourquoi Choisir LogSense vs{" "}
+              Pourquoi Choisir LogMind vs{" "}
               <span className="text-transparent bg-gradient-to-r from-blue-400 to-cyan-400 bg-clip-text">
                 Splunk, Elastic, Datadog
               </span>
@@ -661,7 +661,7 @@ export default function Home() {
             </h2>
             <p className="text-xl text-gray-300 mb-8">
               Rejoignez plus de 500 entreprises qui optimisent leur sécurité et
-              performance avec LogSense
+              performance avec LogMind
             </p>
             <button className="bg-gradient-to-r from-blue-600 via-blue-500 to-cyan-500 px-10 py-4 rounded-lg font-semibold text-lg hover:scale-105 transition transform inline-flex items-center gap-2 shadow-lg shadow-blue-500/30">
               Démarrer Gratuitement
@@ -681,7 +681,7 @@ export default function Home() {
             <div>
               <div className="flex items-center space-x-2 mb-4">
                 <Shield className="w-6 h-6 text-blue-400" />
-                <span className="text-xl font-bold">LogSense</span>
+                <span className="text-xl font-bold">LogMind</span>
               </div>
               <p className="text-gray-400 text-sm mb-4">
                 Solution SaaS française d'analyse intelligente de logs par IA
@@ -774,7 +774,7 @@ export default function Home() {
           </div>
           <div className="border-t border-blue-500/20 pt-8 flex flex-col md:flex-row justify-between items-center text-gray-400 text-sm">
             <p>
-              &copy; 2025 LogSense SAS. Tous droits réservés. Made in France 🇫🇷
+              &copy; 2025 LogMind SAS. Tous droits réservés. Made in France 🇫🇷
             </p>
             <p className="mt-2 md:mt-0">
               Hébergement sécurisé · RGPD compliant · ISO 27001
