@@ -440,7 +440,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold mb-4">
-              Fonctionnalités Complètes d'
+              Fonctionnalités Complètes
               <span className="text-transparent bg-gradient-to-r from-blue-400 to-cyan-400 bg-clip-text">
                 Analyse de Logs
               </span>
@@ -575,7 +575,7 @@ export default function Home() {
 
           <div className="mt-12 bg-gradient-to-r from-blue-600/20 to-cyan-600/20 p-8 rounded-2xl border border-blue-500/30 shadow-lg shadow-blue-500/10">
             <h3 className="text-2xl font-bold mb-4 text-center">
-              Économisez jusqu'à 85% vs Splunk
+              Économisez jusqu&apos;à 85% vs Splunk
             </h3>
             <p className="text-center text-gray-300 text-lg">
               Obtenez les mêmes fonctionnalités essentielles pour une fraction
@@ -689,7 +689,7 @@ export default function Home() {
                 <span className="text-xl font-bold">LogMind</span>
               </div>
               <p className="text-gray-400 text-sm mb-4">
-                Solution SaaS française d'analyse intelligente de logs par IA
+                Solution SaaS française d&apos;analyse intelligente de logs par IA
               </p>
               <p className="text-gray-500 text-xs">
                 Alternative à Splunk, Elastic Stack, Datadog
@@ -759,7 +759,7 @@ export default function Home() {
               <ul className="space-y-2 text-gray-400 text-sm">
                 <li>
                   <a href="#" className="hover:text-blue-400 transition">
-                    Centre d'aide
+                    Centre d&apos;aide
                   </a>
                 </li>
                 <li>
