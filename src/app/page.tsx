@@ -7,15 +7,12 @@ import {
   Bell,
   FileText,
   Zap,
-  TrendingUp,
   CheckCircle,
   ArrowRight,
   Menu,
   X,
-  Search,
   Lock,
   Clock,
-  LucideIcon,
 } from "lucide-react";
 
 // Types & Interfaces
@@ -291,7 +288,7 @@ export default function Home() {
                 Fonctionnalités
               </a>
               <a href="#cas-usage" className="hover:text-blue-400 transition">
-                Cas d'usage
+                Cas d&apos;usage
               </a>
               <a href="#tarifs" className="hover:text-blue-400 transition">
                 Tarifs
@@ -327,7 +324,7 @@ export default function Home() {
                 href="#cas-usage"
                 className="block hover:text-blue-400 transition"
               >
-                Cas d'usage
+                Cas d&apos;usage
               </a>
               <a
                 href="#tarifs"
@@ -479,13 +476,14 @@ export default function Home() {
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold mb-4">
-              Cas d'Usage{" "}
+              Cas d&apos;Usage{" "}
               <span className="text-transparent bg-gradient-to-r from-blue-400 to-cyan-400 bg-clip-text">
                 Métier
               </span>
             </h2>
             <p className="text-xl text-gray-400">
-              LogMind s'adapte à tous vos besoins d'analyse et monitoring
+              LogMind s&apos;adapte à tous vos besoins d&apos;analyse et
+              monitoring
             </p>
           </div>
 
@@ -747,7 +745,10 @@ export default function Home() {
                   </a>
                 </li>
                 <li>
-                  <a href="#" className="hover:text-blue-400 transition">
+                  <a
+                    href="#comparatif"
+                    className="hover:text-blue-400 transition"
+                  >
                     vs Elastic
                   </a>
                 </li>
